@@ -1,0 +1,4 @@
+id,secret_type,file_name
+193,slack_api_token,databasetest.py
+222,slack_api_token,slack.py
+944,aws_access_key_id,index.js

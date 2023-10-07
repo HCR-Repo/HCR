@@ -1,0 +1,56 @@
+Synthesizing 10/10 solutions (Duplicates hidden)
+Press <CR> on a solution to accept
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = 'xoxb-1234567890-1234567890-1234567890-1234567890'
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = config['SLACK']['token']
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = 'xoxp-1234567890-1234567890-1234567890-1234567890'
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = 'xoxp-xxxxxxxxxx-xxxxxxxxxx-xxxxxxxxxx-xxxxxxxxxx'
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = "xoxb-111111111111-222222222222-333333333333333333333333"
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = 'xoxp-***********-***********-***********-***********'
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = 'xoxb-XXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXX'
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = 'xoxb-XXXXXXXXXXXXXXXXXXXX'
+────────────────────────────────────────────────────────────────────────
+def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        #token = config['SLACK']['token']
+        token = 'xoxb-xxxxxx'
